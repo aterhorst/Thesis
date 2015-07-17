@@ -1,0 +1,76 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Introduction}{8}
+\contentsline {section}{\numberline {1.1}Scope of research study}{8}
+\contentsline {section}{\numberline {1.2}Research motivation}{8}
+\contentsline {section}{\numberline {1.3}Research objectives}{8}
+\contentsline {section}{\numberline {1.4}Organisation of this document}{8}
+\contentsline {chapter}{\numberline {2}Literature Review}{9}
+\contentsline {section}{\numberline {2.1}What is innovation?}{9}
+\contentsline {section}{\numberline {2.2}Why is innovation important?}{9}
+\contentsline {section}{\numberline {2.3}Business perspectives of innovation}{9}
+\contentsline {subsection}{\numberline {2.3.1}Resource-based view}{9}
+\contentsline {subsection}{\numberline {2.3.2}Knowledge-based view}{9}
+\contentsline {subsection}{\numberline {2.3.3}Relation-based view}{9}
+\contentsline {subsection}{\numberline {2.3.4}Dynamic capabilities}{9}
+\contentsline {section}{\numberline {2.4}The open innovation paradigm}{9}
+\contentsline {section}{\numberline {2.5}Knowledge transfer}{9}
+\contentsline {subsection}{\numberline {2.5.1}Absorptive capacity}{9}
+\contentsline {subsection}{\numberline {2.5.2}Sticky knowledge}{9}
+\contentsline {subsection}{\numberline {2.5.3}Network perspective}{9}
+\contentsline {section}{\numberline {2.6}Research gaps}{9}
+\contentsline {section}{\numberline {2.7}Research questions}{9}
+\contentsline {chapter}{\numberline {3}Methodology}{10}
+\contentsline {section}{\numberline {3.1}Research philosophy}{11}
+\contentsline {section}{\numberline {3.2}Research design}{11}
+\contentsline {subsection}{\numberline {3.2.1}Multiple case study approach}{11}
+\contentsline {subsection}{\numberline {3.2.2}Mixed method social network analysis}{11}
+\contentsline {subsection}{\numberline {3.2.3}Multitheoretical multilevel analytic framework}{11}
+\contentsline {section}{\numberline {3.3}Case Studies}{11}
+\contentsline {section}{\numberline {3.4}Quantitative methods}{11}
+\contentsline {subsection}{\numberline {3.4.1}Quantitative data collection}{11}
+\contentsline {subsubsection}{Survey participants}{11}
+\contentsline {subsubsection}{On-line survey}{11}
+\contentsline {subsection}{\numberline {3.4.2}Quantitative data analysis}{11}
+\contentsline {subsubsection}{Centrality measures}{11}
+\contentsline {subsubsection}{Exponential random graph modelling}{11}
+\contentsline {section}{\numberline {3.5}Qualitative methods}{11}
+\contentsline {subsection}{\numberline {3.5.1}Qualitative data collection}{11}
+\contentsline {subsubsection}{Interview participants}{11}
+\contentsline {subsubsection}{Semi-structured interviews}{11}
+\contentsline {subsection}{\numberline {3.5.2}Qualitative data analysis}{11}
+\contentsline {subsubsection}{Transcription of recorded interviews}{11}
+\contentsline {subsubsection}{Coding of interview transcripts}{11}
+\contentsline {subsubsection}{Analysis of codes}{11}
+\contentsline {section}{\numberline {3.6}Integrating the quantitative and qualitative phases}{11}
+\contentsline {subsection}{\numberline {3.6.1}Association rule learning}{11}
+\contentsline {section}{\numberline {3.7}Cross-case analysis}{11}
+\contentsline {chapter}{\numberline {4}Results}{12}
+\contentsline {section}{\numberline {4.1}Case study 1}{12}
+\contentsline {section}{\numberline {4.2}Case study 2}{12}
+\contentsline {section}{\numberline {4.3}Case study 3}{12}
+\contentsline {section}{\numberline {4.4}Results of cross-case analysis}{12}
+\contentsline {chapter}{\numberline {5}Discussion}{13}
+\contentsline {section}{\numberline {5.1}Social mechanisms of absorptive capacity}{13}
+\contentsline {section}{\numberline {5.2}Antecedents of knowledge sharing and knowledge creation}{13}
+\contentsline {subsection}{\numberline {5.2.1}Individual factors}{13}
+\contentsline {subsection}{\numberline {5.2.2}Relational factors}{13}
+\contentsline {subsection}{\numberline {5.2.3}Organisational factors}{13}
+\contentsline {section}{\numberline {5.3}Stickiness of knowledge}{13}
+\contentsline {section}{\numberline {5.4}Multilevel assessment of absorptive capacity}{13}
+\contentsline {chapter}{\numberline {6}Conclusion}{14}
+\contentsline {section}{\numberline {6.1}Study findings}{14}
+\contentsline {section}{\numberline {6.2}Limitations of this study}{14}
+\contentsline {section}{\numberline {6.3}Implications for management of open innovation}{14}
+\contentsline {section}{\numberline {6.4}Future research}{14}
+\contentsline {chapter}{References}{15}
+\contentsline {chapter}{\numberline {A}Qualitative analysis code book}{16}
+\contentsline {chapter}{\numberline {B}Formulae for computing centrality measures}{17}
+\contentsline {section}{\numberline {B.1}Freeman's measure of degree centrality}{17}
+\contentsline {section}{\numberline {B.2}Bonacich's measure of eigenvector centrality}{17}
+\contentsline {section}{\numberline {B.3}Burt's measure of constraint}{17}
+\contentsline {section}{\numberline {B.4}Katz's measure of subgraph centrality}{17}
+\contentsline {chapter}{\numberline {C}R code used in this study}{18}
+\contentsline {section}{\numberline {C.1}Code for computing centrality measures }{18}
+\contentsline {section}{\numberline {C.2}Code for generating network visualisations}{18}
+\contentsline {section}{\numberline {C.3}Code for exponential random graph models}{18}
+\contentsline {chapter}{\numberline {D}On-line survey items}{19}

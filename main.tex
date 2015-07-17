@@ -1,0 +1,113 @@
+\documentclass[12pt,twoside]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+\usepackage{natbib}
+\bibliographystyle{agsm}
+\usepackage{setspace}
+\usepackage{url}
+\usepackage{filecontents}
+\usepackage{pdflscape}
+\usepackage{epstopdf}
+\usepackage[a4paper,width=150mm,top=25mm,bottom=25mm,bindingoffset=6mm]{geometry}
+\usepackage[english]{babel}
+\usepackage[nottoc,notlof,notlot]{tocbibind} 
+\usepackage{booktabs}
+
+
+
+
+%\usepackage{fancyhdr}
+%\pagestyle{fancy}
+%
+%\fancypagestyle{plain}{%
+%	\fancyhf{} % clear all header and footer fields
+%	\fancyfoot[C]{\bfseries \thepage} % except the center
+%	\renewcommand{\headrulewidth}{0pt}
+%	\renewcommand{\footrulewidth}{0pt}}
+%
+%\fancypagestyle{plain}{}
+%\fancyhf{}
+%\fancyhead[LE,RO]{Andrew Terhorst}
+%\fancyhead[RE,LO]{How social networks shape absorptive capacity}
+%\fancyfoot[CE,CO]{\rightmark}
+%\fancyfoot[LE,RO]{\thepage}
+
+%\renewcommand{\headrulewidth}{2pt}
+%\renewcommand{\footrulewidth}{1pt}
+
+
+ 
+
+
+\graphicspath{ {images/} }
+
+
+
+\title{
+	{How Social Networks Shape Absorptive Capacity in Open Innovation: Food Industry Case Studies}\\
+	{\large Swinburne University of Technology}\\
+	{\includegraphics[width=0.3\columnwidth]{swinburne_university_of_technology.png}}
+}
+\author{Andrew Terhorst}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\renewcommand{\bibname}{References}
+
+
+
+\chapter*{Abstract}
+
+Abstract goes here
+
+\chapter*{Dedication}
+To mum and dad
+
+\chapter*{Declaration}
+I declare that..
+
+\chapter*{Acknowledgements}
+I want to thank...
+
+\tableofcontents
+
+\chapter{Introduction}
+\input{chapters/chapter1}
+
+\chapter{Literature Review}
+\input{chapters/chapter2}
+
+\chapter{Methodology}
+\input{chapters/chapter3}
+
+\chapter{Results}
+\input{chapters/chapter4}
+
+\chapter{Discussion}
+\input{chapters/chapter5}
+
+\chapter{Conclusion}
+\input{chapters/chapter6}
+
+\pagebreak
+
+\bibliography{Qiqqa2BibTexExport}
+\bibliographystyle{agsm}
+
+\appendix
+\chapter{Qualitative analysis code book}
+\input{chapters/appendixa}
+
+\chapter{Formulae for computing centrality measures}
+\input{chapters/appendixb}
+
+\chapter{R code used in this study}
+\input{chapters/appendixc}
+
+\chapter{On-line survey items}
+% \input{chapters/appendixd}
+
+\end{document}
